@@ -79,7 +79,7 @@
 	                     </ul>
 	                 </li>
 	                 
-	                 <li><a href="#">관리자와 1:1 채팅</a></li>
+	                 <li><a href="#">etc...</a></li>
 	             </ul>
 	             
 	             <ul class="nav navbar-nav navbar-right">
