@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "Mybatis.config-location",
+  "type": "java.lang.String",
+  "description": "A description for 'Mybatis.config-location'"
+}]}
